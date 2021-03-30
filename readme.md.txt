@@ -7,5 +7,5 @@ text2的修改
 text3的修改
 
 function (){
-   Console.log("gg")
+   Console.log("ggw你好我好 w")
 }
