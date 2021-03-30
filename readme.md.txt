@@ -10,4 +10,4 @@ function (){
    Console.log("搜索g")
    Console.log("ggw大家会被你好我好w")
 }
-刷卡机坏打卡
+刷卡机坏打卡几块钱我去孔雀舞极其无趣很抱歉我好
