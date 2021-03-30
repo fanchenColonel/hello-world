@@ -8,5 +8,5 @@ text3的修改
 
 function (){
    Console.log("搜索g")
-   Console.log("ggw你好我好 时间简史w")
+   Console.log("ggw你好我好    说你是时间简史w")
 }
