@@ -4,9 +4,10 @@
 
 text2的修改厮杀后
 
-text3的修改
+text3的修改数据啊合适就回家啊
 
 function (){
    Console.log("搜索g")
-   Console.log("ggw你好我好    说你是时间简史w")
+   Console.log("ggw大家会被你好我好w")
 }
+刷卡机坏打卡
