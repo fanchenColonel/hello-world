@@ -1,2 +1,1 @@
-# hello-world
-practice
+练习一
